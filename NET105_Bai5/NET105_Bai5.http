@@ -1,0 +1,6 @@
+@NET105_Bai5_HostAddress = http://localhost:5182
+
+GET {{NET105_Bai5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
